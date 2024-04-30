@@ -1,0 +1,41 @@
+Disease,Suitable Medication
+,
+Malaria,"Chloroquine, Artemisinin-based drugs"
+Allergy,"Antihistamines, Corticosteroids"
+Hypothyroidism,Levothyroxine
+Psoriasis,"Topical corticosteroids, Methotrexate"
+GERD,"Proton pump inhibitors (e.g., Omeprazole)"
+Chronic cholestasis,Ursodeoxycholic acid
+Hepatitis A,"Rest, supportive care"
+Osteoarthristis,"Acetaminophen, NSAIDs"
+(Vertigo) Paroxysmal Positional Vertigo,Epley maneuver
+Hypoglycemia,"Glucose tablets, Sugary foods"
+Acne,"Topical or oral antibiotics, Retinoids"
+Diabetes,"Insulin, Oral hypoglycemic agents"
+Impetigo,Antibiotics (Topical or oral)
+Hypertension,"ACE inhibitors, Beta-blockers"
+Dimorphic Hemorrhoids (Piles),"High-fiber diet, Pain relievers"
+Common Cold,"Decongestants, Analgesics"
+Chickenpox,"Antiviral medications, Analgesics"
+Cervical Spondylosis,"Physical therapy, Analgesics"
+Hyperthyroidism,Antithyroid medications
+Urinary Tract Infection,Antibiotics
+Varicose Veins,"Compression stockings, Lifestyle changes"
+AIDS,Antiretroviral therapy (ART)
+Paralysis (Brain Hemorrhage),"Rehabilitation, Medications as needed"
+Typhoid,Antibiotics
+Hepatitis B,Antiviral medications
+Fungal Infection,Antifungal medications
+Hepatitis C,Antiviral medications
+Migraine,"Analgesics, Triptans"
+Bronchial Asthma,"Bronchodilators, Inhaled corticosteroids"
+Alcoholic Hepatitis,"Abstinence, Nutritional support"
+Jaundice,"Supportive care, Treatment of underlying cause"
+Hepatitis E,"Supportive care, Rest"
+Dengue,"Supportive care, Fluid replacement"
+Hepatitis D,Antiviral medications
+Heart Attack,"Emergency medical attention, Medications as needed"
+Pneumonia,"Antibiotics, Oxygen therapy"
+Arthritis,"NSAIDs, Disease-modifying antirheumatic drugs"
+Gastroenteritis,"Rehydration, Antiemetics"
+Tuberculosis,"Antibiotics (e.g., Rifampicin, Isoniazid)"
